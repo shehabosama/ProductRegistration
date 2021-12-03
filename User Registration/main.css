@@ -1,0 +1,31 @@
+/* Control the left side */
+.Left {
+    height: 100%;
+  width: 50%;
+  position: fixed;
+
+    left: 0;
+   background-image:url(images/2.png);
+  }
+  
+  /* Control the right side */
+  .Right {
+    height: 100%;
+    width: 50%;
+    position: fixed;
+
+    right: 0;
+   background-image:url(images/1.png);
+  }
+  
+  /* If you want the content centered horizontally and vertically */
+  .Center {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    font-family:'Bradley Hand ITC';
+    color:gray;
+  }
+  

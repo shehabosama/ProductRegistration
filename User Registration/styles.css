@@ -1,0 +1,34 @@
+h1 {
+    font-size: 50pt;
+    
+    font-family:'Bradley Hand ITC';
+    color: grey;
+    background: center;
+}
+h2
+{
+    font-size:20pt;
+    font-family:'Bradley Hand ITC';
+    color:black;
+    background:left;
+}
+
+body
+{
+   display:table;
+   padding:2px;
+   border:hidden;
+  
+    background-color:antiquewhite;
+ background-image:url(images/pngfind.png);
+
+                 
+
+ 
+}
+.center
+{
+    text-align:center;
+    
+}
+

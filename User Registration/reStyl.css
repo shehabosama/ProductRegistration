@@ -1,0 +1,23 @@
+h1 {
+    font-size: 30pt;
+    font-family:'Bradley Hand ITC';
+    color: grey;
+    background: center;
+    text-indent:each-line;
+}
+h2
+{
+    font-size:10pt;
+    font-family:'Bradley Hand ITC';
+    color:black;
+    background:left;
+    background-color:transparent;
+}
+
+body
+{
+    background-color:antiquewhite;
+    background-image:url(images/3.png);
+ 
+}
+

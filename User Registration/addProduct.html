@@ -1,0 +1,43 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+    <link rel="stylesheet" href="styles.css" />
+   
+</head>
+<body>
+    <div class="center"><h1>Add Product</h1></div> 
+    
+   
+    
+        <form id="proForm" action="">
+            <h2>Name Of Product: <input type="text" id="name1" size="40" name="nameOfproduct" required/> </h2>
+            <h2>Number Of Product: <input type="text" id="number1" size="35" name="numberOfproduct" required/> </h2>
+            <h2>
+                Country Of Manufacture: <select name="country"  id="country1">
+                    <option>Korya</option>
+                    <option>China</option>
+                    <option>Jaban</option>
+                    <option>Franch</option>
+                    <option>USA</option>
+                    <option selected="selected">Please Select... </option>
+                </select>
+            </h2>
+            
+            <h2>Manufacturing Year: <input type="text" id="year1"  size="32" name="year" /></h2>
+            <h2>Price Of Product: <input type="text" id="price1" size="42" name="priceOfproduct" /></h2>
+            <h2>Type Of Product: <input type="text" id="type1" size="42" name="type" /> </h2>
+            <div class="center">
+                <button onclick="chkData()"LINK="Result.html" > Submit  </button>
+               
+                <button>Reset </button>
+            </div>
+        </form>
+        
+
+
+        <script type="text/javascript" src="Script1.js"></script>
+</body>
+</html>
