@@ -20,6 +20,7 @@
             </td>
             <td colspan="2">
                 <asp:TextBox ID="nameOfProduct" runat="server" Width="399px" />
+                 <asp:Label Text="*" runat="server" ForeColor="Red" />
             </td>
         </tr>
         <tr>
@@ -28,6 +29,7 @@
             </td>
             <td colspan="2">
                 <asp:TextBox ID="numberOfProduct" runat="server" Width="399px" />
+                 <asp:Label Text="*" runat="server" ForeColor="Red" />
             </td>
         </tr>
        
@@ -64,7 +66,7 @@
             </td>
             <td colspan="2">
                 <asp:TextBox ID="priceOfProduct" runat="server" Width="399px"/>
-                <asp:Label Text="*" runat="server" ForeColor="Red" />
+               
             </td>
         </tr>
         <tr>
@@ -73,7 +75,7 @@
             </td>
             <td colspan="2">
                 <asp:TextBox ID="typeOfProdcut" runat="server" Width="399px" />
-                 <asp:Label Text="*" runat="server" ForeColor="Red" />
+                
             </td>
         </tr>
       
