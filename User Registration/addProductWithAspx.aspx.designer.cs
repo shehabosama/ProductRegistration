@@ -11,7 +11,7 @@ namespace User_Registration
 {
 
 
-	public partial class Index
+	public partial class addProductWithAspx
 	{
 
 		/// <summary>

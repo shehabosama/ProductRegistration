@@ -10,7 +10,7 @@ using System.Text.RegularExpressions;
 
 namespace User_Registration
 {
-    public partial class Index : System.Web.UI.Page
+    public partial class addProductWithAspx : System.Web.UI.Page
     {
         string connectionString = @"Data Source =.; Initial Catalog = UserRegistrationDB; Integrated Security=True;";
         protected void Page_Load(object sender, EventArgs e)
