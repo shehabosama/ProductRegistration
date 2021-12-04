@@ -1,4 +1,4 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="addProductWithAspx.aspx.cs" Inherits="User_Registration.Index" %>
+﻿<%@ Page Language="C#" AutoEventWireup="true"  CodeFile="addProductWithAspx.aspx.cs" Inherits="User_Registration.addProductWithAspx" %>
 
 <!DOCTYPE html>
 

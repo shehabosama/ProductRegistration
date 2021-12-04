@@ -1,4 +1,4 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="ResultOfAsp.aspx.cs" Inherits="User_Registration.ResultOfAsp" %>
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeFile="ResultOfAsp.aspx.cs" Inherits="User_Registration.ResultOfAsp" %>
 
 <!DOCTYPE html>
 
